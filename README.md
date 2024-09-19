@@ -3,6 +3,8 @@
 <a name="top"></a>
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat)](LICENCE)
 
+![](images/fig1.png)
+
 <a name="overview"></a>
 
 # Overview
